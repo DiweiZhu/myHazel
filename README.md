@@ -1,7 +1,7 @@
 # myHazel
 hazel engine following The Cherno's tutorial
 
-Following series of [The Cherno]https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT.
+Following series of [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT).
 
 I want to learn:
 * What does a game engine looks like, what functions or systems it has,
